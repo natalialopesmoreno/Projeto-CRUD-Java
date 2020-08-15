@@ -47,6 +47,8 @@ public class AdicionarClienteServlet extends HttpServlet {
 		//para chamar uma página que mostre os dados(uma lista)
 		// Ou response.sendRedirect("listaEmpresas");
 		
+		response.sendRedirect("listarClientes");
+		
 		
 	}
 	}
