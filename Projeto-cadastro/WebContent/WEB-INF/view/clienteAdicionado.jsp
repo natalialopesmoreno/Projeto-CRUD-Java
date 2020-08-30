@@ -18,9 +18,5 @@ O que voc� deseja fazer agora?<br>
 <a href="/Projeto-cadastro/listarClientes">Lista de Cadastros</a><br>
 
 
-
-
-
-
 </body>
 </html>
